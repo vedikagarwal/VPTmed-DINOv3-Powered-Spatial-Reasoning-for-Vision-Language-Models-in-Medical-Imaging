@@ -1,0 +1,2 @@
+Model,Num_Questions,Exact_Match_Accuracy,Mean_Similarity
+Qwen/Qwen2.5-VL-7B-Instruct,500,0.0,0.07641948336744554
