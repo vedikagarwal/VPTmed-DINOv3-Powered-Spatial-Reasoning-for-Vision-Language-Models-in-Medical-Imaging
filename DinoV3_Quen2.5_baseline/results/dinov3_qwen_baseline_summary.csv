@@ -1,0 +1,2 @@
+Model,Num_Questions,Exact_Match_Accuracy,Mean_Similarity,Mean_BLEU
+DINOv2 + Qwen2.5-7B-Instruct,500,0.0,0.054807684653395326,0.0012746758729723395
